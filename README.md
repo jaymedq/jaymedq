@@ -1,4 +1,4 @@
-### Hey, I'm Jayme Queiroz!
+# Hey, I'm Jayme Queiroz!
 
 I am an Embedded Software Engineer at Volvo specializing in safety critical real time systems and advanced digital signal processing.  
 I hold an **M.Sc. in Electrical and Computer Engineering** from UTFPR, where my research focused on sensor fusion and indoor human tracking systems. 
