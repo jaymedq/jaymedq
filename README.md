@@ -25,4 +25,4 @@ When I'm not writing code for vehicles or microcontrollers, you can usually find
 
 ## Let's Connect!
 
-* [**LinkedIn:**](https://www.linkedin.com/in/jayme-de-queiroz-26b9b1179)
+* [**LinkedIn**](https://www.linkedin.com/in/jayme-de-queiroz-26b9b1179)
